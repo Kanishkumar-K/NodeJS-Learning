@@ -4,6 +4,7 @@
 
 - cURL (Client URL) is a command-line tool used for transferring data to or from a server using various protocols, including HTTP, HTTPS, FTP, and more. 
 
+
 - It is widely used for making HTTP requests and interacting with APIs.
 
 
